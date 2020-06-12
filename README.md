@@ -1,2 +1,1 @@
-# Exemplos-.NET
-Exemplos de funcionalidades .NET
+# Exemplos de Machine Learning em .NET
